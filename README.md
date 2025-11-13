@@ -22,4 +22,4 @@ Player profiles and team statistics
 
 Integration with social media sharing options
 
-🔗**Live Link** https://akash7807.github.io/gaming/
+🔗**Live Link** https://pragalp.github.io/gaming/
